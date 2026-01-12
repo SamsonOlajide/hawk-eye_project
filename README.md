@@ -134,7 +134,7 @@ The clip demonstrates:
 - Selecting the higher card via the GUI
 - Score increment on correct guesses
 - Demo length: 15 seconds
-**15-second demo video:** https://github.com
+**15-second demo video:** [Link](https://github.com/SamsonOlajide/hawk-eye_project/raw/refs/heads/main/demo/demo.mp4)
 
 
 ## Design Decisions
