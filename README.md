@@ -162,6 +162,6 @@ The clip demonstrates:
 
 ## Conclusion
 
-This project demonstrates a practical and maintainable approach to software design, combining backend-style logic with frontend interaction. It was built with clarity and user experience in mind.
+This project aims to demonstrate a practical and maintainable approach to software desig whilst combining backend-style logic with frontend interaction. It was built with clarity and user experience in mind, hope you like it.
 
 Thank you for taking the time to review this submission.
