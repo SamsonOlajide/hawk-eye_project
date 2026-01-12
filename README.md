@@ -133,8 +133,7 @@ The clip demonstrates:
 - Game-over state and restart flow
 - Selecting the higher card via the GUI
 - Score increment on correct guesses
-- Demo length: 15 seconds
-**15-second demo video:** [Link](https://github.com/SamsonOlajide/hawk-eye_project/raw/refs/heads/main/demo/demo.mp4)
+- Demo link: **15-second demo video:** [Link](https://github.com/SamsonOlajide/hawk-eye_project/raw/refs/heads/main/demo/demo.mp4)
 
 
 ## Design Decisions
